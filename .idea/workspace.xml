@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d72182e-f27a-447f-a695-affb31461786" name="Changes" comment="Starting to implement Board and Piece">
+    <list default="true" id="2d72182e-f27a-447f-a695-affb31461786" name="Changes" comment="Chess layer and printing the board">
       <change afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742481013101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chess layer and printing the board">
+      <option name="closed" value="true" />
+      <created>1742483099991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742483099991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First class: Position" />
     <MESSAGE value="Starting to implement Board and Piece" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting to implement Board and Piece" />
+    <MESSAGE value="Chess layer and printing the board" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chess layer and printing the board" />
   </component>
 </project>
